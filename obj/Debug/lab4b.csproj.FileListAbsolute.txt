@@ -1,0 +1,6 @@
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\lab4b\lab4b\bin\Debug\lab4b.exe.config
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\lab4b\lab4b\bin\Debug\lab4b.exe
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\lab4b\lab4b\bin\Debug\lab4b.pdb
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\lab4b\lab4b\obj\Debug\lab4b.exe
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\lab4b\lab4b\obj\Debug\lab4b.pdb
+C:\Users\tssca\OneDrive\Documents\Visual Studio 2015\Projects\lab4b\lab4b\obj\Debug\lab4b.csprojResolveAssemblyReference.cache
